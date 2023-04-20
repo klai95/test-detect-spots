@@ -8,4 +8,4 @@ contributions:
   widgets:
     - command: test-detect-spots.make_func_widget
       autogenerate: true
-      display_name: Example Function Widget
+      display_name: Detect Spots Widget
